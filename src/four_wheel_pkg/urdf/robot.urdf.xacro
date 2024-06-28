@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<robot name="four_wheel" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+    <xacro:include filename="$(find four_wheel_pkg)/urdf/robot.urdf.xacro"/>
+  
+</robot>
